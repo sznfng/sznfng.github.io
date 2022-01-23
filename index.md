@@ -4,4 +4,4 @@ I have a PhD degree from [MIT](https://linguistics.mit.edu/), as well as a bache
 
 Contact: [sznfong@alum.mit.edu](mailto:sznfong@alum.mit.edu). Pronouns: *she*/*hers*; *ela*/*dela*.
 
-<embed src="https://sznfng.github.io/CV_sfong_website.pdf" type="application/pdf" />
+My CV is available [here]().
