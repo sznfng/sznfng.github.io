@@ -3,5 +3,3 @@ I am a syntactician. I am currently unaffiliated. During the Fall semester of 20
 I have a PhD degree from [MIT](https://linguistics.mit.edu/), as well as a bachelor's and a master's degree from [Universidade de São Paulo](https://linguistica.fflch.usp.br/).
 
 Contact: [sznfong@alum.mit.edu](mailto:sznfong@alum.mit.edu). Pronouns: *she*/*hers*; *ela*/*dela*.
-
-My CV is available [here]().
