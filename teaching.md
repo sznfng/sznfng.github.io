@@ -9,6 +9,7 @@ _Linguistics Summer School at Buenos Aires_\
 February/2020\
 Topic: Theoretical approaches to hyperraising\
 You can find the program and handouts [here](https://www.dropbox.com/sh/pl08r58i8g4psg7/AACxQkOP2f3FK0A5V8C7YDIea?dl=0).
+
 **Teaching assistantship**
 
 + Graduate syntax (24.951)\
