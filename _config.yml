@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Suzana Fong
 description: Linguist
+github:
+  is_project_page: false
