@@ -1,1 +1,6 @@
+# Site navigation links
+- title: Home
+  url: /
 
+- title: Teaching
+  url: /teaching/
