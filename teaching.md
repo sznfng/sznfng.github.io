@@ -1,14 +1,9 @@
----
-layout: page
-title: Teaching
----
-
-## Teaching at QMUL
+**Teaching at QMUL**
 + Introduction to Semantics (BA/MA, LIN5217)
 + Syntax II Explaining Grammatical Structures (BA, LIN5213)
 + Syntax (MA, LIN7209; [syllabus](https://sznfng.github.io/Syllabus_QMUL_Fall_2021_LIN7209.pdf); [teaching materials](https://www.dropbox.com/sh/kl42lu5d1can1uz/AAB1sf3FX8V0Q3hdynVfhIGVa?dl=0))
 
-## ELBA (Escuela de Lingüística de Buenos Aires)
+**ELBA (Escuela de Lingüística de Buenos Aires)**
 
 _Linguistics Summer School at Buenos Aires_
 
@@ -18,7 +13,7 @@ Topic: Theoretical approaches to hyperraising.
 
 You can find the program and handouts here.
 
-## Teaching assistantship
+**Teaching assistantship**
 
 You can find my teaching assistantship materials here.
 
