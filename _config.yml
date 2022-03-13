@@ -1,7 +1,6 @@
 theme: jekyll-theme-minimal
 title: Suzana Fong
 description: Linguist
-email: sznfong@alum.mit.edu
 sidebar:
   - name: Teaching
     link: https://sznfng.github.io/teaching
