@@ -1,7 +1,7 @@
 ## Teaching at QMUL
 + Introduction to Semantics (BA/MA, LIN5217)
 + Syntax II Explaining Grammatical Structures (BA, LIN5213)
-+ Syntax (MA, LIN7209; syllabus; teaching materials)
++ Syntax (MA, LIN7209; [syllabus](https://sznfng.github.io/Syllabus_QMUL_Fall_2021_LIN7209.pdf); [teaching materials](https://www.dropbox.com/sh/kl42lu5d1can1uz/AAB1sf3FX8V0Q3hdynVfhIGVa?dl=0))
 
 ## ELBA (Escuela de Lingüística de Buenos Aires)
 
