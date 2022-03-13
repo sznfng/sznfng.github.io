@@ -1,3 +1,8 @@
+---
+layout: page
+title: Teaching
+---
+
 ## Teaching at QMUL
 + Introduction to Semantics (BA/MA, LIN5217)
 + Syntax II Explaining Grammatical Structures (BA, LIN5213)
