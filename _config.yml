@@ -15,7 +15,6 @@ sidebar:
   - name: CV
     link: /CV_sfong.pdf
   - name: Research
-    icon: <i class="fa-regular fa-block-question"></i>
     link: /research
   - name: Teaching
     link: /teaching
