@@ -23,6 +23,6 @@ BNs in Wolof have the syntactic distribution of pseudo noun incorporation. Alter
 
 In Mongolian and quite a few other languages, the subject of an embedded finite clause can receive case from a matrix assigner. They can also move into the matrix clause, i.e. they can hyperraise into it. Both of these operations challenge common assumptions about Phasehood (as well as other assumptions about Activity and case assignment. I propose that this phenomenon in Mongolian requires the movement of the embedded finite subject through Spec-CP. Being at the edge of a phase, it can be visible to a matrix case assigner, as well as to a movement trigger. What is striking about Mongolian hyperraising it can be demonstrated to be an instance of A-movement. This conclusion in turn poses a challenge to conventional assumptions about the A/A-bar distinctions, according to which a syntactic position like Spec-CP is inherently an A-bar position.
 
-## Gerund clauses in Brazilian Portuguese ([M.A. thesis](https://ling.auf.net/lingbuzz/002715))
+# Gerund clauses in Brazilian Portuguese ([M.A. thesis](https://ling.auf.net/lingbuzz/002715))
 
 My M.A. thesis is a study of different types of gerund clauses in Brazilian Portuguese. I propose that their different properties can be captured if they have different sizes. I show that this proposal can also account for gerund clauses in adjunct position.
