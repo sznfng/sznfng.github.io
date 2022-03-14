@@ -3,7 +3,7 @@ layout: default
 title: Research
 ---
 
-## Control in Wolof ([PLC 2022 handout](https://sznfng.github.io/Control_in_Wolof_PLC2022.pdf)
+## Control in Wolof ([PLC 2022 handout](https://sznfng.github.io/Control_in_Wolof_PLC2022.pdf))
 
 In Wolof, subject and object control clauses differ in whether or not the embedded controlled subject is pronounced. In subject control, the embedded subject is obligatorily null, while in object control, the embedded subject is obligatorily an overt pronoun. That object control-looking sentences in Wolof are indeed cases of control can be argued on the basis of the signature properties that characterize this type of construction (i.e. obligatory bound reading, de se interpretation, and sloppy reading under ellipsis). The questions we may ask are then: why do subject and object control in Wolof differ in the phonological realization of controlled PRO? Which control theory is compatible with such realization?
 
