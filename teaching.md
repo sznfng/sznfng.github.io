@@ -1,4 +1,9 @@
-**Teaching at QMUL**
+---
+layout: default
+title: Teaching
+---
+
+##Teaching at QMUL
 + Introduction to Semantics (BA/MA, LIN5217)
 + Syntax II Explaining Grammatical Structures (BA, LIN5213)
 + Syntax (MA, LIN7209; [syllabus](https://sznfng.github.io/Syllabus_QMUL_Fall_2021_LIN7209.pdf); [teaching materials](https://www.dropbox.com/sh/kl42lu5d1can1uz/AAB1sf3FX8V0Q3hdynVfhIGVa?dl=0))
@@ -11,6 +16,8 @@ Topic: Theoretical approaches to hyperraising\
 You can find the program and handouts [here](https://www.dropbox.com/sh/pl08r58i8g4psg7/AACxQkOP2f3FK0A5V8C7YDIea?dl=0).
 
 **Teaching assistantship**
+
+(teaching materials can be found [here](https://www.dropbox.com/sh/q0l32yqp0hppytu/AAAwjiPWL-FP7bSSU3r6aEjXa?dl=0))
 
 + Graduate syntax (24.951)\
 Instructor: Prof. David Pesetsky\
