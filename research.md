@@ -27,4 +27,4 @@ In Mongolian and quite a few other languages, the subject of an embedded finite 
 
 My M.A. thesis is a study of different types of gerund clauses in Brazilian Portuguese. I propose that their different properties can be captured if they have different sizes. I show that this proposal can also account for gerund clauses in adjunct position.
 
-(Other minor research projects I have worked can be found under "Presentations" on my [CV](https://sznfng.github.io/CV_sfong.pdf).)
+(Other minor research projects I have worked on can be found under "Presentations" on my [CV](https://sznfng.github.io/CV_sfong.pdf).)
