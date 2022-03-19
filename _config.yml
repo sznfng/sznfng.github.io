@@ -3,7 +3,7 @@ logo: false
 email: sznfong@alum.mit.edu
 description: Linguist
 show_downloads: false
-google_analytics: UA-108144808-1
+google_analytics: false
 color-scheme: auto
 plugins:
   - jekyll-sitemap
