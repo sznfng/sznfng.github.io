@@ -3,6 +3,8 @@ layout: default
 title: Teaching
 ---
 
+[Tree drawing tutorial](Tree_drawing_tutorial_website.pdf)
+
 ## Teaching at QMUL
 + Introduction to Semantics (BA/MA, LIN5217)
 + Syntax II Explaining Grammatical Structures (BA, LIN5213)
