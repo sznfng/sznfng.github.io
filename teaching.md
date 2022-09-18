@@ -5,6 +5,10 @@ title: Teaching
 
 [Tree drawing tutorial](Tree_drawing_tutorial_website.pdf)
 
+## Teaching at Yale
++ Morphology (Undergraduate/Graduate, LING 280/680)
++ Current Trends in Syntax: the Operation Agree (Undergraduate/Graduate, LING 261/681)
+
 ## Teaching at QMUL
 + Introduction to Semantics (BA/MA, LIN5217)
 + Syntax II Explaining Grammatical Structures (BA, LIN5213)
