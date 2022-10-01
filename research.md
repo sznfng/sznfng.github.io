@@ -3,6 +3,8 @@ layout: default
 title: Research
 ---
 
+I am a syntactician interested in cross-clausal dependencies. The received wisdom is that finite and nonfinite embedded clauses have opposite behavior regarding their ability to license their subject. This difference is commonly stated in terms of phases: finite clauses are phases and, as such, not only do they have its own subject licensing resources, but they are also impervious to some phase-external operations. Nonfinite clauses, on the other hand, lack such resources and have to depend on clause-external operations in order to license their subject. I am captivated by data that challenge such generalizations. I have worked on both nonfinite clauses where a subject can be licensed with their own internal resources and finite clauses that are not impervious to phase-external operations. More recently, the cross-clausal dependency I have been focusing on is control, especially in Wolof.
+
 ## Control in Wolof ([PLC 2022 handout](https://sznfng.github.io/Control_in_Wolof_PLC2022.pdf))
 
 In Wolof, subject and object control clauses differ in whether or not the embedded controlled subject is pronounced. In subject control, the embedded subject is obligatorily null, while in object control, the embedded subject is obligatorily an overt pronoun. That object control-looking sentences in Wolof are indeed cases of control can be argued on the basis of the signature properties that characterize this type of construction (i.e. obligatory bound reading, de se interpretation, and sloppy reading under ellipsis). The questions we may ask are then: why do subject and object control in Wolof differ in the phonological realization of controlled PRO? Which control theory is compatible with such realization?
