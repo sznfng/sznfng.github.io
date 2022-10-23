@@ -6,6 +6,8 @@ title: Teaching
 [Tree drawing tutorial](Tree_drawing_tutorial_website.pdf)
 
 ## Teaching at Yale
++ Syntax II (Undergraduate/Graduate, LING 254/654)
++ Linguistics in the real world (Undergraduate, LING 106)
 + Morphology (Undergraduate/Graduate, LING 280/680; [materials](https://www.dropbox.com/sh/0nuen1k1nzdjvdl/AADskOLcd4jHh-cmczVF72E8a?dl=0))
 + Current Trends in Syntax: the Operation Agree (Undergraduate/Graduate, LING 261/681; [materials](https://www.dropbox.com/sh/1i76zgliw852oyb/AAANq3gmRNQKNIhZspVBmKcua?dl=0))
 
