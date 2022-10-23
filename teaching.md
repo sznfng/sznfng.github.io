@@ -6,15 +6,18 @@ title: Teaching
 [Tree drawing tutorial](Tree_drawing_tutorial_website.pdf)
 
 ## Teaching at Yale
-+ Syntax II (Undergraduate/Graduate, LING 254/654)
-+ Linguistics in the real world (Undergraduate, LING 106)
-+ Morphology (Undergraduate/Graduate, LING 280/680; [materials](https://www.dropbox.com/sh/0nuen1k1nzdjvdl/AADskOLcd4jHh-cmczVF72E8a?dl=0))
-+ Current Trends in Syntax: the Operation Agree (Undergraduate/Graduate, LING 261/681; [materials](https://www.dropbox.com/sh/1i76zgliw852oyb/AAANq3gmRNQKNIhZspVBmKcua?dl=0))
++ Spring 2023
+  + Syntax II (Undergraduate/Graduate, LING 254/654; [syllabus](https://www.dropbox.com/s/1wh9r7m3z7ux09t/Ling_254_654_Syntax_II_Syllabus.pdf?dl=0))
+  + Linguistics in the real world (Undergraduate, LING 106)
++ Fall 2022
+  + Morphology (Undergraduate/Graduate, LING 280/680; [materials](https://www.dropbox.com/sh/0nuen1k1nzdjvdl/AADskOLcd4jHh-cmczVF72E8a?dl=0))
+  + Current Trends in Syntax: the Operation Agree (Undergraduate/Graduate, LING 261/681; [materials](https://www.dropbox.com/sh/1i76zgliw852oyb/AAANq3gmRNQKNIhZspVBmKcua?dl=0))
 
 ## Teaching at QMUL
-+ Introduction to Semantics (BA/MA, LIN5217)
-+ Syntax II Explaining Grammatical Structures (BA, LIN5213)
-+ Syntax (MA, LIN7209; [syllabus](https://sznfng.github.io/Syllabus_QMUL_Fall_2021_LIN7209.pdf); [teaching materials](https://www.dropbox.com/sh/kl42lu5d1can1uz/AAB1sf3FX8V0Q3hdynVfhIGVa?dl=0))
++ Fall 2021
+  + Introduction to Semantics (BA/MA, LIN5217)
+  + Syntax II Explaining Grammatical Structures (BA, LIN5213)
+  + Syntax (MA, LIN7209; [syllabus](https://sznfng.github.io/Syllabus_QMUL_Fall_2021_LIN7209.pdf); [teaching materials](https://www.dropbox.com/sh/kl42lu5d1can1uz/AAB1sf3FX8V0Q3hdynVfhIGVa?dl=0))
 
 ## ELBA (Escuela de Lingüística de Buenos Aires)
 
