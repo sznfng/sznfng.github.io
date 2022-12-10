@@ -1,0 +1,628 @@
+%basic formatting: paper size, margin size, font size, language, etc.
+\documentclass[11pt]{article}
+\usepackage[english]{babel}
+\usepackage[letterpaper,margin=1in]{geometry} 
+
+\usepackage{multicol} %for multiple columns, so that I can display code and output side-by-side
+
+%package to draw trees, with accompanying "decorations"
+\usepackage{tikz} 
+\usetikzlibrary{arrows,shapes,trees,positioning,arrows.meta}
+
+%font packages. The Charis SIL font allows you to input symbols like IPA symbols directly (as opposed to using a package like textipa).
+%Very useful IPA keyboard: https://westonruter.github.io/ipa-chart/keyboard/
+%IPA and other language-specific symbols: https://ipa.typeit.org/
+
+%TO USE THIS FONT, YOU MUST COMPILE YOUR FILE WITH XELATEX. On Overleaf, go to Menu on the upper left corner and choose this option on Compiler.
+
+\usepackage{fontspec} 
+\usepackage{xltxtra} 
+\setmainfont{Charis SIL} 
+\usepackage{xunicode} 
+
+\usepackage{pifont} %for symbols
+
+%package for underlining, crossing out, etc.
+\usepackage[normalem]{ulem} 
+
+%clickable cross-references (for numbered examples and references) 
+\usepackage[hidelinks]{hyperref}
+
+%numbered examples
+\usepackage{gb4e}
+
+%other packages for numbered examples: linguex, expex
+
+\begin{document}
+
+\title{\textbf{Mini \texttt{tikz} tutorial}}
+\author{Suzana Fong\\
+\href{mailto:sznfong@alum.mit.edu}{sznfong@alum.mit.edu}}
+\date{\today}
+\maketitle
+
+In this short tutorial, I list some basic trees and some basic decorations like different types of arrows. I learned a lot from this phenomenal tutorial by Dr. James Crippen: \url{https://lingbuzz.net/lingbuzz/003379}. A lot of the code in this tutorial comes from this manual. Things I learned overt the years from \url{https://tex.stackexchange.com/} are impossible to list and credit.
+
+I claim no credit nor novelty in this tutorial. It just conveniently lists codes that are frequently used in syntax documents.
+
+\begin{enumerate}
+    \item A basic head-initial tree
+    
+    \begin{multicols}{2}
+    
+    \begin{verbatim}
+\begin{tikzpicture}
+    [parent anchor=south,
+    align=center,
+    level distance=2.25em,
+    anchor=north,
+    sibling distance=6em,
+    child anchor=north]
+    \node {A}
+    child {node {B}}
+    child {node {C}
+        child {node {D}}
+        child {node {E}
+            child {node {F}}
+            child {node {G}}}}
+    ;
+\end{tikzpicture}
+        \end{verbatim}
+        
+        \columnbreak
+        
+        \begin{tikzpicture}
+        [parent anchor=south,
+    	align=center,
+    	level distance=2.25em,
+    	anchor=north,
+    	sibling distance=6em,
+    	child anchor=north]
+    	\node {A}
+    		child {node {B}}
+    		child {node {C}
+    		    child {node {D}}
+    		    child {node {E}
+    		        child {node {F}}
+    		        child {node {G}}}}
+    		
+    			;
+    	\end{tikzpicture} 
+    \end{multicols}
+    
+    Adjust the vertical distance between nodes with \texttt{level distance=2.25em} and the horizontal distance with \texttt{sibling distance=2.25em}.
+    
+    \pagebreak
+    
+    \item A basic head-final tree
+    
+    \begin{multicols}{2}
+    
+    \begin{verbatim}
+\begin{tikzpicture}
+    [parent anchor=south,
+    align=center,
+    level distance=2.25em,
+    anchor=north,
+    sibling distance=6em,
+    child anchor=north]
+    \node {A}
+    child {node {C}
+        child {node {E}
+            child {node {G}}
+            child {node {F}}}
+        child {node {D}}}
+    child {node {B}}
+    ;
+\end{tikzpicture}
+        \end{verbatim}
+        
+        \columnbreak
+        
+        \begin{tikzpicture}
+        [parent anchor=south,
+    	align=center,
+    	level distance=2.25em,
+    	anchor=north,
+    	sibling distance=5em,
+    	child anchor=north]
+    	\node {A}
+    	child {node {C}
+    	    child {node {E}
+    	        child {node {G}}
+    	        child {node {F}}}
+    	    child {node {D}}}
+    	child {node {B}}
+    	;
+    	\end{tikzpicture} 
+    \end{multicols}
+    
+    \item A tree without labels in branching nodes:
+    
+    \begin{multicols}{2}
+    
+    \begin{verbatim}
+\begin{tikzpicture}
+    [parent anchor=center,
+    align=center,
+    level distance=2em,
+    anchor=north,
+    sibling distance=5em,
+    child anchor=north]
+    \node {}
+    child {node {B}}
+    child {
+        child {node {D}}
+        child {
+            child {node {F}}
+            child {node {G}}}}
+    ;
+\end{tikzpicture}
+        \end{verbatim}
+        
+        \columnbreak
+        
+        \begin{tikzpicture}
+        [parent anchor=center,
+    	align=center,
+    	level distance=2em,
+    	anchor=north,
+    	sibling distance=6em,
+    	child anchor=north]
+    	\node {}
+    	child {node {B}}
+    	child {
+    	    child {node {D}}
+    	    child {
+    	        child {node {F}}
+    		    child {node {G}}}}
+    			;
+    	\end{tikzpicture} 
+    \end{multicols}
+    
+    Key specification: \texttt{parent anchor=center}. Then delete \texttt{node \{\}} in a branching node.
+    
+    \pagebreak
+    
+    \item A curved arrow connecting nodes G and B
+    
+    \begin{multicols}{2}
+    
+    \begin{verbatim}
+\begin{tikzpicture}
+    [parent anchor=south,
+    align=center,
+    level distance=2.25em,
+    anchor=north,
+    sibling distance=6em,
+    child anchor=north]
+    \node {A}
+    	child {node (b) {B}}
+    	child {node {C}
+    	    child {node {D}}
+    	    child {node {E}
+    	        child {node {F}}
+    	        child {node (g) {G}}}}
+    	;
+    	\draw[<-] (b) .. controls +(south:7em) and +(south:5em) .. (g);
+\end{tikzpicture}
+        \end{verbatim}
+        
+        \columnbreak
+        
+        \begin{tikzpicture}
+        [parent anchor=south,
+    	align=center,
+    	level distance=2.25em,
+    	anchor=north,
+    	sibling distance=6em,
+    	child anchor=north]
+    	\node {A}
+    		child {node (b) {B}}
+    		child {node {C}
+    		    child {node {D}}
+    		    child {node {E}
+    		        child {node {F}}
+    		        child {node (g) {G}}}}
+    	;
+    	\draw[<-] (b) .. controls +(south:7em) and +(south:5em) .. (g);
+    	\end{tikzpicture} 
+    \end{multicols}
+    
+    Add labels to the nodes you want to connect with an arrow (e.g. \texttt{(b)} and \texttt{(g)}).
+    
+    \item Another code for a curved arrow
+    
+    \begin{multicols}{2}
+    
+    \begin{verbatim}
+\begin{tikzpicture}
+    [parent anchor=south,
+    align=center,
+    level distance=2.25em,
+    anchor=north,
+    sibling distance=6em,
+    child anchor=north]
+    \node {A}
+    	child {node (b) {B}}
+    	child {node {C}
+    	    child {node {D}}
+    	    child {node {E}
+    	        child {node {F}}
+    	        child {node (g) {G}}}}
+    	;
+    	\draw[<-] (b) to [bend right=75] (g.south);
+\end{tikzpicture}
+        \end{verbatim}
+        
+        \columnbreak
+        
+        \begin{tikzpicture}
+        [parent anchor=south,
+    	align=center,
+    	level distance=2.25em,
+    	anchor=north,
+    	sibling distance=6em,
+    	child anchor=north]
+    	\node {A}
+    		child {node (b) {B}}
+    		child {node {C}
+    		    child {node {D}}
+    		    child {node {E}
+    		        child {node {F}}
+    		        child {node (g) {G}}}}
+    	;
+    	\draw[<-] (b) to [bend right=75] (g.south);
+    	\end{tikzpicture} 
+    \end{multicols}
+    
+    \pagebreak
+    
+    \item An angled arrow connecting B and G
+    
+    \begin{multicols}{2}
+    
+    \begin{verbatim}
+\begin{tikzpicture}
+    [parent anchor=south,
+    align=center,
+    level distance=2.25em,
+    anchor=north,
+    sibling distance=6em,
+    child anchor=north]
+    \node {A}
+    	child {node (b) {B}}
+    	child {node {C}
+    	    child {node {D}}
+    	    child {node {E}
+    	        child {node {F}}
+    	        child {node (g) {G}}}}
+    	;
+    	\draw[<-,rounded corners=.25em] (b.south)--+(0,-85pt)-|(g.south);
+\end{tikzpicture}
+        \end{verbatim}
+        
+        \columnbreak
+        
+        \begin{tikzpicture}
+        [parent anchor=south,
+    	align=center,
+    	level distance=2.25em,
+    	anchor=north,
+    	sibling distance=6em,
+    	child anchor=north]
+    	\node {A}
+    		child {node (b) {B}}
+    		child {node {C}
+    		    child {node {D}}
+    		    child {node {E}
+    		        child {node {F}}
+    		        child {node (g) {G}}}}
+    	;
+    	\draw[<-] (b.south)--+(0,-85pt)-|(g.south);
+    	\end{tikzpicture} 
+    \end{multicols}
+    
+    \item Other arrow tips and useful commands to be used in \texttt{draw[\dots]}:
+    
+    \begin{enumerate}
+        \item \texttt{*-*} (filed circles)
+        \item \texttt{o-o} (circle lines)
+        \item \texttt{latex-} (different arrow style)
+        \item \texttt{rounded corners=.25em} (rounded corners for angled arrow)
+        \item \texttt{dashed} (dashed line instead of solid line)
+    \end{enumerate}
+    
+    \pagebreak
+    
+    \item Annotation \textit{hello} added to curved arrow
+    
+    \begin{multicols}{2}
+    
+    \begin{verbatim}
+\begin{tikzpicture}
+    [parent anchor=south,
+    align=center,
+    level distance=2.25em,
+    anchor=north,
+    sibling distance=6em,
+    child anchor=north]
+    \node {A}
+    	child {node (b) {B}}
+    	child {node {C}
+    	    child {node {D}}
+    	    child {node {E}
+    	        child {node {F}}
+    	        child {node (g) {G}}}}
+    	;
+    	\draw[<-] (b) .. controls +(south:7em) and +(south:5em) .. (g) 
+    	node [anchor=center,pos=0.5,fill=white] {hello};
+\end{tikzpicture}
+        \end{verbatim}
+        
+        \columnbreak
+        
+        \begin{tikzpicture}
+        [parent anchor=south,
+    	align=center,
+    	level distance=2.25em,
+    	anchor=north,
+    	sibling distance=6em,
+    	child anchor=north]
+    	\node {A}
+    		child {node (b) {B}}
+    		child {node {C}
+    		    child {node {D}}
+    		    child {node {E}
+    		        child {node {F}}
+    		        child {node (g) {G}}}}
+    	;
+    	\draw[<-] (b) .. controls +(south:7em) and +(south:5em) .. (g)
+    	node [anchor=center,pos=0.5,fill=white] {hello};
+    	\end{tikzpicture} 
+    \end{multicols}
+    
+    Instead of \textit{hello}, you can use a symbol like \ding{55}. You will need this package in the preamble: 
+    
+    \begin{verbatim}
+\usepackage{pifont}
+    \end{verbatim}
+    
+    \item Annotation \textit{hello} added to angled arrow
+    
+    \begin{multicols}{2}
+    
+    \begin{verbatim}
+\begin{tikzpicture}
+    [parent anchor=south,
+    align=center,
+    level distance=2.25em,
+    anchor=north,
+    sibling distance=6em,
+    child anchor=north]
+    \node {A}
+    	child {node (b) {B}}
+    	child {node {C}
+    	    child {node {D}}
+    	    child {node {E}
+    	        child {node {F}}
+    	        child {node (g) {G}}}}
+    	;
+    	\draw[<-,rounded corners=.25em] (b.south)--+(0,-85pt)-|(g.south)
+    	node [anchor=center,pos=0.25,fill=white] {hello};
+\end{tikzpicture}
+        \end{verbatim}
+        
+        \columnbreak
+        
+        \begin{tikzpicture}
+        [parent anchor=south,
+    	align=center,
+    	level distance=2.25em,
+    	anchor=north,
+    	sibling distance=6em,
+    	child anchor=north]
+    	\node {A}
+    		child {node (b) {B}}
+    		child {node {C}
+    		    child {node {D}}
+    		    child {node {E}
+    		        child {node {F}}
+    		        child {node (g) {G}}}}
+    	;
+    	\draw[<-] (b.south)--+(0,-85pt)-|(g.south)
+    	node [anchor=center,pos=0.25,fill=white] {hello};
+    	\end{tikzpicture} 
+    \end{multicols}
+    
+    \item Annotation \textit{hello} added beside curved arrow
+    
+    \begin{multicols}{2}
+    
+    \begin{verbatim}
+\begin{tikzpicture}
+    [parent anchor=south,
+    align=center,
+    level distance=2.25em,
+    anchor=north,
+    sibling distance=6em,
+    child anchor=north]
+    \node {A}
+    	child {node (b) {B}}
+    	child {node {C}
+    	    child {node {D}}
+    	    child {node {E}
+    	        child {node {F}}
+    	        child {node (g) {G}}}}
+    	;
+    	\draw[<-] (b) .. controls +(south:7em) and +(south:5em) .. (g) 
+    	node [anchor=center,pos=0.5,fill=white] {hello};
+\end{tikzpicture}
+        \end{verbatim}
+        
+        \columnbreak
+        
+        \begin{tikzpicture}
+        [parent anchor=south,
+    	align=center,
+    	level distance=2.25em,
+    	anchor=north,
+    	sibling distance=6em,
+    	child anchor=north]
+    	\node {A}
+    		child {node (b) {B}}
+    		child {node {C}
+    		    child {node {D}}
+    		    child {node {E}
+    		        child {node {F}}
+    		        child {node (g) {G}}}}
+    	;
+    	\draw[<-] (b) .. controls +(south:7em) and +(south:5em) .. (g)
+    	node[sloped,midway] {hello};
+    	\end{tikzpicture} 
+    \end{multicols}
+    
+    Instead of \textit{hello}, you can use a symbol like \ding{55}. For this particular symbol, you will need this package in the preamble: 
+    
+    \begin{verbatim}
+\usepackage{pifont}
+    \end{verbatim}
+    
+    \pagebreak
+    
+    \item Annotation \textit{hello} added below angled arrow
+    
+    \begin{multicols}{2}
+    
+    \begin{verbatim}
+\begin{tikzpicture}
+    [parent anchor=south,
+    align=center,
+    level distance=2.25em,
+    anchor=north,
+    sibling distance=6em,
+    child anchor=north]
+    \node {A}
+    	child {node (b) {B}}
+    	child {node {C}
+    	    child {node {D}}
+    	    child {node {E}
+    	        child {node {F}}
+    	        child {node (g) {G}}}}
+    	;
+    	\draw[<-,rounded corners=.25em] (b.south)--+(0,-85pt)-|(g.south)
+    	node [anchor=north,pos=0.25,yshift=-.25em] {hello};
+\end{tikzpicture}
+        \end{verbatim}
+        
+        \columnbreak
+        
+        \begin{tikzpicture}
+        [parent anchor=south,
+    	align=center,
+    	level distance=2.25em,
+    	anchor=north,
+    	sibling distance=6em,
+    	child anchor=north]
+    	\node {A}
+    		child {node (b) {B}}
+    		child {node {C}
+    		    child {node {D}}
+    		    child {node {E}
+    		        child {node {F}}
+    		        child {node (g) {G}}}}
+    	;
+    	\draw[<-] (b.south)--+(0,-85pt)-|(g.south)
+    	node [anchor=north,pos=0.25,yshift=-.25em] {hello};
+    	\end{tikzpicture} 
+    \end{multicols}
+    
+    \item Linear representation with arrows
+    
+    \begin{verbatim}
+\tikzstyle{every picture}+=[remember picture, inner sep=0pt, baseline, anchor=base]%
+	
+	{}[stuff \tikz\node(b){B}; [more stuff [even more stuff \tikz\node(g){G};]]]
+	
+	\begin{tikzpicture}[overlay]
+	    \draw[<-,rounded corners=.25em]([yshift=-.5em]b.south)--+(0,-1.5em)-|
+	    ([yshift=-.5em]g.south);
+    \end{tikzpicture}        
+    \end{verbatim}
+    
+    \tikzstyle{every picture}+=[remember picture, inner sep=0pt, baseline, anchor=base]%
+	
+	{}[stuff \tikz\node(b){B}; [more stuff [even more stuff \tikz\node(g){G};]]]
+	
+	\begin{tikzpicture}[overlay]
+	    \draw[<-]([yshift=-.5em]b.south)--+(0,-1.5em)-|
+	    ([yshift=-.5em]g.south);
+    \end{tikzpicture}
+    
+    \begin{itemize}
+        \item The element E in the linear representation you want to connect with an arrow must be placed in this code below. Note the label \texttt{(e)} and the semicolon \texttt{;}.
+        
+        \begin{verbatim}
+\tikz\node(e){E};
+        \end{verbatim}
+       
+       \item The code below places the arrow lower down the elements it connects.
+       
+       \begin{verbatim}
+[yshift=-.5em]
+       \end{verbatim}
+        
+    \end{itemize}
+    
+\end{enumerate}
+
+\section*{Other useful resources}
+
+\begin{enumerate}
+    \item Lining up top of tree with number for numbered exampled: use the following code before the tree:
+    
+    \begin{verbatim}
+\leavevmode\vadjust{\vspace{-\baselineskip}}\newline
+    \end{verbatim}
+    
+    For example, using \texttt{gb4e} to number examples:
+    
+    \begin{verbatim}
+\begin{exe}
+    \ex{\leavevmode\vadjust{\vspace{-\baselineskip}}\newline
+    \begin{tikzpicture}
+    [parent anchor=south,
+    align=center,
+    level distance=2.25em,
+    anchor=north,
+    sibling distance=6em,
+    child anchor=north]
+    \node {A}
+    child {node {B}}
+    child {node {C}}
+    ;
+    \end{tikzpicture}}
+\end{exe}    
+    \end{verbatim}
+    
+    \item Introducing symbols and special characters: this document uses a \texttt{fontspec} font. It allows one to input symbols like IPA symbols directly, e.g. [ɸβθðʃʒʂʐ].
+    
+    \begin{itemize}
+        \item This is a useful IPA keyboard: \url{https://westonruter.github.io/ipa-chart/keyboard/}.
+        \item This website has symbols used in few different writing systems, e.g. Portuguese: \url{https://portuguese.typeit.org/}.
+    \end{itemize}
+    
+    \item Multiple columns with \texttt{minipage}:\footnote{A straightforward package is \texttt{multicol}, but \texttt{minipage} allows for more fine-grained control of the size of the columns.}
+    
+    \begin{verbatim}
+\begin{minipage}[t]{.5\textwidth}
+    STUFF IN FIRST COLUMN
+\end{minipage}%
+\begin{minipage}[t]{.5\textwidth}
+    STUFF IN SECOND COLUMN
+\end{minipage}%
+    \end{verbatim}
+    
+\end{enumerate}
+
+\end{document}
