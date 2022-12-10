@@ -3,7 +3,7 @@ layout: default
 title: Teaching
 ---
 
-[Tree drawing tutorial](Tree_drawing_tutorial_website.pdf)
+[Tikz tutorial](tikz_tutorial_website.pdf) ([tex file]{} and [Overleaf]())
 
 ## Teaching at Yale
 + Spring 2023
