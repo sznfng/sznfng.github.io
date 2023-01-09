@@ -8,7 +8,7 @@ title: Teaching
 ## Teaching at Yale
 + Spring 2023
   + Syntax II (Undergraduate/Graduate, LING 254/654; [syllabus](https://www.dropbox.com/s/1wh9r7m3z7ux09t/Ling_254_654_Syntax_II_Syllabus.pdf?dl=0))
-  + Linguistics in the real world (Undergraduate, LING 106)
+  + Linguistics in the real world (Undergraduate, LING 106; [syllabus](https://www.dropbox.com/s/1vb09hosi3o2sqz/Syllabus_LING_106_Linguistics_in_the_real_world_Spring_2023.pdf?dl=0))
 + Fall 2022
   + Morphology (Undergraduate/Graduate, LING 280/680; [materials](https://www.dropbox.com/sh/0nuen1k1nzdjvdl/AADskOLcd4jHh-cmczVF72E8a?dl=0))
   + Current Trends in Syntax: the Operation Agree (Undergraduate/Graduate, LING 261/681; [materials](https://www.dropbox.com/sh/1i76zgliw852oyb/AAANq3gmRNQKNIhZspVBmKcua?dl=0))
