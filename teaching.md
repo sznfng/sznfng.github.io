@@ -6,6 +6,9 @@ title: Teaching
 [Tikz tutorial](https://sznfng.github.io/mini_tikz_tutorial.pdf) ([Overleaf](https://www.overleaf.com/read/tyrrnsrqvsth))
 
 ## Teaching at Yale
+
+I am currently teaching an undergraduate seminar and Syntax II. The undergraduate seminar is called 'Linguistics in the real world' and it serves both as an informal introduction to linguistics and as a discussion of topics that show how language is important to individuals and the communities they belong to (e.g. bilingualism, language policy, the so-called creole languages, heritage languages, etc). Syntax II is a course taken by both undergraduate and graduate students and which delves into fundamental topics of current syntactic research (e.g. case and agreement phenomena and theories, ellipsis, movement phenomena and different ways to model movement, etc).
+
 + Spring 2023
   + Syntax II (Undergraduate/Graduate, LING 254/654; [syllabus](https://www.dropbox.com/s/1wh9r7m3z7ux09t/Ling_254_654_Syntax_II_Syllabus.pdf?dl=0); [lecture materials](https://www.dropbox.com/sh/2t9a9npk975k1cg/AABqPrAB7lsxaB_EzhpqtfJ2a?dl=0))
   + Linguistics in the real world (Undergraduate, LING 106; [syllabus](https://www.dropbox.com/s/1vb09hosi3o2sqz/Syllabus_LING_106_Linguistics_in_the_real_world_Spring_2023.pdf?dl=0))
