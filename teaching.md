@@ -12,7 +12,7 @@ I am currently teaching an undergraduate seminar and Syntax II. The undergraduat
 Syntax II is a course taken by both undergraduate and graduate students and which delves into fundamental topics of current syntactic research (e.g. case phenomena and theories, movement diagnostics, the typology of displacement phenomena and their distinctive properties). Besides examining these phenomena and theories, this course aims at providing students the opportunity to sharpen their analytical skills, their ability to formulate and evaluate hypotheses.
 
 + Syntax II (LING 254/654, Spring 2023), undergraduate/graduate course [[Lecture materials]](https://www.dropbox.com/sh/2t9a9npk975k1cg/AABqPrAB7lsxaB_EzhpqtfJ2a?dl=0).
-+ Linguistics in the real world (LING 106, Spring 2023), undergraduate course [[syllabus]](https://www.dropbox.com/s/1vb09hosi3o2sqz/Syllabus_LING_106_Linguistics_in_the_real_world_Spring_2023.pdf?dl=0).
++ Linguistics in the real world (LING 106, Spring 2023), undergraduate course [[Syllabus]](https://www.dropbox.com/s/1vb09hosi3o2sqz/Syllabus_LING_106_Linguistics_in_the_real_world_Spring_2023.pdf?dl=0).
 + Morphology (LING 280/680, Fall 2022), undergraduate/graduate [[Lecture materials]](https://www.dropbox.com/sh/0nuen1k1nzdjvdl/AADskOLcd4jHh-cmczVF72E8a?dl=0)).
 + Current Trends in Syntax: the Operation Agree (LING 261/681, Fall 2022), undergraduate/graduate course [[Lecture materials]](https://www.dropbox.com/sh/1i76zgliw852oyb/AAANq3gmRNQKNIhZspVBmKcua?dl=0).
 
@@ -30,11 +30,11 @@ The program and handouts can be found [here](https://www.dropbox.com/sh/pl08r58i
 
 ## Teaching assistantship
 
-(teaching materials can be found [here](https://www.dropbox.com/sh/q0l32yqp0hppytu/AAAwjiPWL-FP7bSSU3r6aEjXa?dl=0))
+(Teaching materials can be found [here](https://www.dropbox.com/sh/q0l32yqp0hppytu/AAAwjiPWL-FP7bSSU3r6aEjXa?dl=0).)
 
 + Graduate syntax (24.951), Massachusetts Institute of Technology, Fall 2020.
 + Introduction to Linguistics (24.900), Massachusetts Institute of Technology, Fall 2018.
 + Special Subject: Linguistics (24.S90), Massachusetts Institute of Technology, Spring 2017.
 + Language and Its Structure II: Syntax (24.902/24.932), Massachusetts Institute of Technology, Fall 2016.
-+ Sintaxe: fundamentos da análise e descrição sintáticas (FLL0215, undergraduate syntax), Universidade de São Paulo, 1º semestre de 2015.
-+ Elementos de Lingüística II (FLL0434, Introduction to Linguistics), Universidade de São Paulo, 2º semestre de 2014.
++ Sintaxe: fundamentos da análise e descrição sintáticas (FLL0215, undergraduate syntax), Universidade de São Paulo, 2015/1.
++ Elementos de Lingüística II (FLL0434, Introduction to Linguistics), Universidade de São Paulo, 2014/1.
