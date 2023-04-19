@@ -17,14 +17,14 @@ I am currently teaching an undergraduate seminar and Syntax II. The undergraduat
 ## Teaching at QMUL
 + Introduction to Semantics (LIN5217, Fall 2021), BA/MA course.
 + Syntax II Explaining Grammatical Structures (LIN5213, Fall 2021), BA course.
-+ Syntax (MA, LIN7209, Fall 2021), MA course [Teaching materials](https://www.dropbox.com/sh/kl42lu5d1can1uz/AAB1sf3FX8V0Q3hdynVfhIGVa?dl=0).
++ Syntax (MA, LIN7209, Fall 2021), MA course [[Teaching materials]](https://www.dropbox.com/sh/kl42lu5d1can1uz/AAB1sf3FX8V0Q3hdynVfhIGVa?dl=0).
 
 ## ELBA (Escuela de Lingüística de Buenos Aires)
 
-[_Linguistics Summer School at Buenos Aires_](https://sites.google.com/site/elbahomep/home)\
+[Linguistics Summer School at Buenos Aires](https://sites.google.com/site/elbahomep/home)\
 February/2020\
 Topic: Theoretical approaches to hyperraising\
-You can find the program and handouts [here](https://www.dropbox.com/sh/pl08r58i8g4psg7/AACxQkOP2f3FK0A5V8C7YDIea?dl=0).
+The program and handouts can be found [here](https://www.dropbox.com/sh/pl08r58i8g4psg7/AACxQkOP2f3FK0A5V8C7YDIea?dl=0).
 
 ## Teaching assistantship
 
