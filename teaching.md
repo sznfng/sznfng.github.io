@@ -7,7 +7,7 @@ title: Teaching
 
 ## Teaching at Yale University
 
-I am currently teaching an undergraduate seminar and Syntax II. The undergraduate seminar is called 'Linguistics in the real world' and it serves both as an informal introduction to linguistics and as a discussion of topics that show how language is a fundamental aspect of an individual's identity and (e.g. bilingualism, language policy, the so-called Creole languages, heritage languages, etc).
+I am currently teaching an undergraduate seminar and Syntax II. The undergraduate seminar is called 'Linguistics in the real world' and it serves both as an informal introduction to linguistics and as a discussion of topics that demonstrate how language is a fundamental to an individual's identity and to their role in the community they belong to (e.g. bilingualism, heritage languages, language revitalization, the so-called Creole languages, etc).
 
 Syntax II is a course taken by both undergraduate and graduate students and which delves into fundamental topics of current syntactic research (e.g. case phenomena and theories, movement diagnostics, the typology of displacement phenomena and their distinctive properties). Besides examining these phenomena and theories, this course aims at providing students the opportunity to sharpen their analytical skills, their ability to formulate and evaluate hypotheses.
 
