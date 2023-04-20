@@ -13,7 +13,7 @@ Syntax II is a course taken by both undergraduate and graduate students and whic
 
 + Syntax II (LING 254/654, Spring 2023), undergraduate/graduate course [[Lecture materials]](https://www.dropbox.com/sh/2t9a9npk975k1cg/AABqPrAB7lsxaB_EzhpqtfJ2a?dl=0).
 + Linguistics in the real world (LING 106, Spring 2023), undergraduate course [[Syllabus]](https://www.dropbox.com/s/1vb09hosi3o2sqz/Syllabus_LING_106_Linguistics_in_the_real_world_Spring_2023.pdf?dl=0).
-+ Morphology (LING 280/680, Fall 2022), undergraduate/graduate [[Lecture materials]](https://www.dropbox.com/sh/0nuen1k1nzdjvdl/AADskOLcd4jHh-cmczVF72E8a?dl=0)).
++ Morphology (LING 280/680, Fall 2022), undergraduate/graduate [[Lecture materials]](https://www.dropbox.com/sh/0nuen1k1nzdjvdl/AADskOLcd4jHh-cmczVF72E8a?dl=0).
 + Current Trends in Syntax: the Operation Agree (LING 261/681, Fall 2022), undergraduate/graduate course [[Lecture materials]](https://www.dropbox.com/sh/1i76zgliw852oyb/AAANq3gmRNQKNIhZspVBmKcua?dl=0).
 
 ## Teaching at QMUL
