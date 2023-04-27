@@ -7,7 +7,7 @@ I am a syntactician mainly interested in cross-clausal dependencies. The receive
 
 ## A Wholesale Late Merge Theory of Control
 
-([preliminary handout](https://www.dropbox.com/s/l0pjn1qmj3kxdct/WLM%20Theory%20of%20Control.pdf?dl=0))
+([Yale Syntax Reading Group handout](https://www.dropbox.com/s/l0pjn1qmj3kxdct/WLM%20Theory%20of%20Control.pdf?dl=0))
 
 Wholesale Late Merge (Takahashi & Hulsey 2009) consists in countercyclically merging the restrictor of an operator that had been previously merged into the derivation. The Movement Theory of Control (Hornstein 1999), in turn, is a theory of control according to which there is no dedicated control module in the grammar. Rather, obligatory control is the byproduct of moving a DP through more than one thematic position. In this nascent project, I entertain the consequence of combining these two independent theories. The result can be dubbed 'Wholesale Late Merge Theory of Control', whereby obligatory control is the consequence of early merging a D in the embedded clause, moving it into a thematic position in the matrix clause, upon which point, an NP is countercyclically WLM-ed. If correct, this theory accounts for three asymmetries between raising and control that are not expected in the simplest version of the MTC, namely, (i) the fact that control, unlike raising, does not reconstruct, (ii) the lack of case connectivity in Icelandic control, and (iii) the enforcement of anti-pronominality effects in control, which are absent in raising. Additionally, the early merged D provides an apt model for instances of obligatory control PRO that are realized as an overt pronoun.
 
