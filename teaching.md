@@ -19,7 +19,7 @@ title: Teaching
 
 ## ELBA (Escuela de Lingüística de Buenos Aires)
 
-[Linguistics Summer School at Buenos Aires](https://sites.google.com/site/elbahomep/home)\
+[Linguistics Summer School at Buenos Aires](https://escuela-linguistica-de-buenos-aires.github.io/)\
 February/2020\
 Topic: Theoretical approaches to hyperraising\
 The program and handouts can be found [here](https://www.dropbox.com/sh/pl08r58i8g4psg7/AACxQkOP2f3FK0A5V8C7YDIea?dl=0).
