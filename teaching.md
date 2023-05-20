@@ -3,7 +3,10 @@ layout: default
 title: Teaching
 ---
 
-[Tikz tutorial](https://sznfng.github.io/mini_tikz_tutorial.pdf) ([Overleaf](https://www.overleaf.com/read/tyrrnsrqvsth))
+## LaTeX
+
++ [Drawing diagrams with TikZ](https://www.overleaf.com/read/tyrrnsrqvsth) (NB: a lot of the code in this tutorial is taken from Dr. James Crippen [tutorial](https://ling.auf.net/lingbuzz/003379))
++ [Conference abstract template](https://www.overleaf.com/read/hcytpyymdwyh)
 
 ## Teaching at Yale University
 
