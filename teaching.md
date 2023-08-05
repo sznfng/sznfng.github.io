@@ -6,7 +6,7 @@ title: Teaching
 ## LaTeX
 
 + [Drawing diagrams with TikZ](https://sznfng.github.io/mini_tikz_tutorial.pdf) (NB: a lot of the code in this tutorial is taken from Dr. James Crippen's [tutorial](https://ling.auf.net/lingbuzz/003379))
-+ [Conference abstract template](https://www.overleaf.com/read/hcytpyymdwyh))
++ [Conference abstract template](https://www.overleaf.com/read/hcytpyymdwyh)
 
 ## Teaching at Yale University
 
