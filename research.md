@@ -13,13 +13,13 @@ I propose a version of the Movement Theory of Control (Hornstein, 1999, et seq.)
 
 ([Manuscript](https://lingbuzz.net/lingbuzz/007513))
 
-## Control in Wolof
+## Pronominal overt PRO in Wolof
 
 In Wolof, control clauses differ in whether or not the embedded PRO subject is pronounced. In some control clauses, the subject is phonologically null, as expected, while in others, it is an overt pronoun. The main questions that arise are then: why do control clauses in this language differ in the phonological realization of PRO? Which control theory is compatible with such realization? I suggest that control clauses where the subject is an overt pronoun project a ΣP which "impedes" movement. Assuming that control is derived by movement, I model the pronounced PRO as the partial residue of movement that has been impeded. Control clauses with a null subject, in turn, are restructured.
 
 ([ACAL 53 proceedings paper](https://ling.auf.net/lingbuzz/007129))
 
-## Bare nominals in Wolof
+## Nominal licensing: bare nominals in Wolof
 
 ([PhD dissertation](https://dspace.mit.edu/handle/1721.1/139864))
 
@@ -31,7 +31,7 @@ BNs in Wolof have the syntactic distribution of pseudo noun incorporation. Alter
 
 ([Paper to appear at Syntax](https://ling.auf.net/lingbuzz/005314))
 
-## Hyperraising
+## Hyperraising, an A-dependency crossing a finite boundary
 
 In Mongolian and quite a few other languages, the subject of an embedded finite clause can receive case from a matrix assigner. They can also move into the matrix clause, i.e. they can hyperraise into it. Both of these operations challenge common assumptions about Phasehood (as well as other assumptions about Activity and case assignment. I propose that this phenomenon in Mongolian requires the movement of the embedded finite subject through Spec-CP. Being at the edge of a phase, it can be visible to a matrix case assigner, as well as to a movement trigger. What is striking about Mongolian hyperraising it can be demonstrated to be an instance of A-movement. This conclusion in turn poses a challenge to conventional assumptions about the A/A-bar distinctions, according to which a syntactic position like Spec-CP is inherently an A-bar position.
 
