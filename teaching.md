@@ -3,11 +3,6 @@ layout: default
 title: Teaching
 ---
 
-## LaTeX
-
-+ [Drawing diagrams with TikZ](https://sznfng.github.io/mini_tikz_tutorial.pdf) (NB: a lot of the code in this tutorial is taken from Dr. James Crippen's [tutorial](https://ling.auf.net/lingbuzz/003379))
-+ [Conference abstract template](https://www.overleaf.com/read/hcytpyymdwyh)
-
 ## Teaching at Yale University
 
 + Syntax II (LING 254/654, Spring 2023), undergraduate/graduate course [[Lecture materials]](https://www.dropbox.com/sh/2t9a9npk975k1cg/AABqPrAB7lsxaB_EzhpqtfJ2a?dl=0).
