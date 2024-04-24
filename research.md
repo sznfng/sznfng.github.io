@@ -29,7 +29,7 @@ The semantic interpretation and syntactic distribution of BNs in Wolof differ fr
 
 BNs in Wolof have the syntactic distribution of pseudo noun incorporation. Alternatively said, these nominals have to be linearly adjacent to the verb. However, there are two seemingly unrelated circumstances under which these nominals can sidestep this adjacency requirement: they can be A-bar moved or there can be an additional argument inserted between the BN object and the subject of the sentence. Assuming dependent case, I propose that this set of circumstances is not accidental: BNs in Wolof do not have to be adjacent to the verb when a case competitor is provided to them -- otherwise, they have to be licensed via linear adjacency with the verb. What A-bar movement and the introduction of an intermediate argument have in common is that they provide a case competitor to the BN. This research thus contributes to the long standing debate about the relationship between nominal licensing and case assignment.
 
-([Paper to appear at Syntax](https://ling.auf.net/lingbuzz/005314))
+([Syntax 2024 paper](https://onlinelibrary.wiley.com/doi/10.1111/synt.12282))
 
 ## Hyperraising, an A-dependency crossing a finite boundary
 
