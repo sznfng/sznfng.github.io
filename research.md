@@ -17,7 +17,7 @@ Building on the Movement Theory of Control (Hornstein, 1999, et seq.), I propose
 
 In Wolof, control clauses differ in whether or not the embedded PRO subject is pronounced. In some control clauses, the subject is phonologically null, as expected, while in others, it is an overt pronoun. The main questions that arise are then: why do control clauses in this language differ in the phonological realization of PRO? Which control theory is compatible with such realization? I suggest that control clauses where the subject is an overt pronoun project a ΣP which "impedes" movement. Assuming that control is derived by movement, I model the pronounced PRO as the partial residue of movement that has been impeded. Control clauses with a null subject, in turn, are restructured.
 
-([ACAL 53 proceedings paper](https://ling.auf.net/lingbuzz/007129))
+([ACAL 53 proceedings paper](https://doi.org/10.5281/zenodo.11189852))
 
 ## Nominal licensing: bare nominals in Wolof
 
