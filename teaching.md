@@ -4,8 +4,8 @@ title: Teaching
 ---
 
 ## Memorial University of Newfounland
-+ Syntax (1103, Fall 2024): [syllabus](files/Morphology_3000_Fall_2024_syllabus.pdf)
-+ Morphology (3000, Fall 2024)
++ Syntax (1103, Fall 2024): [syllabus](files/Introduction_to_Syntax_1103_Fall_2024_syllabus.pdf)
++ Morphology (3000, Fall 2024): [syllabus](files/Morphology_3000_Fall_2024_syllabus.pdf)
 
 ## Previous teaching
 
