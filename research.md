@@ -7,7 +7,7 @@ title: Research
 
 Reciprocal binding in Adyghe/West Circassian and Kabardian/East Circassian (Northwest Caucasian) and the _Ban on Ergative Anaphors_: [NELS 55 slides](files/NELS_2024_slides.pdf)
 
-<div></div>
+<div>
 
 More generally, my research regards different types of cross-clausal A-dependencies. The received wisdom is that finite and nonfinite embedded clauses have opposite behavior regarding their ability to license their subject. This difference is commonly stated in terms of phases: finite clauses are phases and, as such, not only do they have their own subject licensing resources, but they are also impervious to some phase-external operations. Nonfinite clauses, on the other hand, lack such resources and have to depend on clause-external operations in order to license their subject. I am captivated by data that challenge such generalizations. I have worked on both nonfinite clauses where a subject can be licensed with their own internal resources and finite clauses that are not impervious to phase-external operations. Broadening the empirical domain of cross-clausal dependencies allows us to deepen our understanding of the strategies needed to license a subject and of the variable degrees in which embedded clauses are permeable to or dependent on external resources and operations.
 
@@ -48,3 +48,5 @@ In Mongolian and quite a few other languages, the subject of an embedded finite 
 My M.A. thesis is a study of different types of gerund clauses in Brazilian Portuguese. I propose that their different properties can be captured if they have different sizes. I show that this proposal can also account for gerund clauses in adjunct position.
 
 ([Universidade de São Paulo M.A. thesis](https://ling.auf.net/lingbuzz/002715))
+
+</div>
