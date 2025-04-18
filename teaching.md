@@ -7,9 +7,9 @@ title: Teaching
 Hosted by the Linguistics Department at the University of Oregon. I will be teaching [Introduction to Generative Syntax](https://center.uoregon.edu/LSA/2025/program/search/detail_session.php?id=13901702) (July 7-- August 8, 2025).
 
 ## Memorial University of Newfounland
-+ Syntax (1103, Winter 2025)
-+ Selected topics in syntactic theory (4110/6110, Winter 2025; crosslisted)
-+ Syntax (1103, Fall 2024)
++ Syntax (1103; Fall 2025, Winter 2025, Fall 2024)
++ Field Methods (4500/6500; Fall 2025; crosslisted)
++ Selected topics in syntactic theory (4110/6110; Winter 2025; crosslisted)
 + Morphology (3000, Fall 2024)
 
 ## Previous teaching
