@@ -4,7 +4,7 @@ title: Teaching
 ---
 ## 2025 LSA Summer Institute
 
-Hosted by the Linguistics Department at the University of Oregon. I will be teaching [Introduction to Generative Syntax](https://center.uoregon.edu/LSA/2025/program/search/detail_session.php?id=13901702) (July 7-- August 8, 2025).
+Hosted by the Linguistics Department at the University of Oregon. I will be presenting at the workshop [Introduction to Generative Syntax](https://center.uoregon.edu/LSA/2025/program/search/detail_session.php?id=13901702) (July 7-- August 7, 2025).
 
 ## Memorial University of Newfounland
 + Syntax (1103; Fall 2025, Winter 2025, Fall 2024)
