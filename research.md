@@ -45,5 +45,6 @@ My M.A. thesis is a study of different types of gerund clauses in Brazilian Port
 
 ## Recent work
 
-Reciprocal binding in Adyghe/West Circassian and Kabardian/East Circassian (Northwest Caucasian) and the _Ban on Ergative Anaphors_:
+Reciprocal binding in Adyghe/West Circassian and Kabardian/East Circassian (Northwest Caucasian) and the _Ban on Ergative Anaphors_
+
 ([NELS 55 slides](files/NELS_2024_slides.pdf), [proceedings paper](files/NELS_55_proceedings_paper_Fong.pdf))
