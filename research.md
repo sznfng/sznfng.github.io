@@ -7,6 +7,12 @@ My research regards different types of cross-clausal A-dependencies. The receive
 
 ([Handbook overview chapter](https://lingbuzz.net/lingbuzz/007303), with Dr. Claire Halpert)
 
+## Recent work
+
+Reciprocal binding in Adyghe/West Circassian and Kabardian/East Circassian (Northwest Caucasian) and the _Ban on Ergative Anaphors_
+
+([NELS 55 slides](files/NELS_2024_slides.pdf), [proceedings paper](files/NELS_55_proceedings_paper_Fong.pdf))
+
 ## A Wholesale Late Merge Theory of Control
 
 Building on the Movement Theory of Control (Hornstein, 1999, et seq.), I propose that a lone determiner can be merged in a thematic position in the embedded clause, move into an additional thematic position in the matrix clause, upon which point its NP complement is Wholesale Late Merged (Takahashi & Hulsey, 2009). Along Takahashi (2019), I propose that Fox’s (2002) Trace Conversion consists in transforming the residue of movement into a set of features that are formally indistinguishable from a pronoun. Likewise, along wih Erlewine & Gould (2016), I propose that this interpretive procedure can apply at the Narrow Syntax, so that its result is visible for Vocabulary Insertion. The result is a theory of control that can account for why obligatory control PRO in a language like English has pronominal properties, a property that can be accounted for by a theory of control such as Chomsky’s (1981) PRO-based GB theory, but not by the original version of the MTC. Furthermore, this paper investigates languages where PRO is not phonologically null, but, rather, an overt pronoun, pointing out hitherto unnoticed generalizations about the nature of the clause where pronounced PRO’s occur, as well as about its status with respect to other pronouns that occur in languages that display an overt PRO. The theory proposed, coupled with a realizational framework of the grammar (Halle & Marantz, 1993, 1994) and with independently needed assumptions about phasehood, provides an account of such generalizations.
@@ -42,9 +48,3 @@ In Mongolian and quite a few other languages, the subject of an embedded finite 
 My M.A. thesis is a study of different types of gerund clauses in Brazilian Portuguese. I propose that their different properties can be captured if they have different sizes. I show that this proposal can also account for gerund clauses in adjunct position.
 
 ([Universidade de São Paulo M.A. thesis](https://ling.auf.net/lingbuzz/002715))
-
-## Recent work
-
-Reciprocal binding in Adyghe/West Circassian and Kabardian/East Circassian (Northwest Caucasian) and the _Ban on Ergative Anaphors_
-
-([NELS 55 slides](files/NELS_2024_slides.pdf), [proceedings paper](files/NELS_55_proceedings_paper_Fong.pdf))
