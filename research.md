@@ -7,9 +7,9 @@ My research regards different types of cross-clausal A-dependencies. The receive
 
 ([Handbook overview chapter](https://lingbuzz.net/lingbuzz/007303), with Dr. Claire Halpert)
 
-## Recent work
+## Reciprocal binding in Adyghe and Kabardian and the _Ban on Ergative Anaphors_
 
-Reciprocal binding in Adyghe/West Circassian and Kabardian/East Circassian (Northwest Caucasian) and the _Ban on Ergative Anaphors_
+According to a High Absolutive analysis of syntactic ergativity, grammatical operations can target intransitive subjects and transitive objects, distinguishing them from transitive subjects, because the former move to a position higher than the latter. A prediction that results from this theory is that an absolutive DP can bind an anaphoric ergative argument as a consequence of moving to a position that c-commands it. While it has been shown that this prediction is not borne out by facts across a range of syntactically ergative languages, reciprocal sentences in Adyghe and Kabardian (Northwest Caucasian) appear to be an exception. The morphosyntax of such constructions suggests that the reciprocal occupies a position that is c-commands the absolutive DP that binds it, which would imply that the absolutive DP does indeed move to a higher position. I argue instead that the morphosyntactic properties of Adyghe and Kabardian reciprocal sentences should not be taken at face value. Rather, they are the byproduct of independent principles that regulate syntactic derivations (viz. Last Resort and Case Theory), combined with crosslinguistically stable parameters of variation regarding case and nominal licensing. These sentences, thus, also fall under the generalization that absolutive arguments cannot bind an ergative anaphor and, as such, do not provide empirical support for a High Absolutive analysis nor to the claim that syntactic ergativity can be found beyond A-bar phenomena.
 
 ([NELS 55 slides](files/NELS_2024_slides.pdf), [proceedings paper](files/NELS_55_proceedings_paper_Fong.pdf))
 
