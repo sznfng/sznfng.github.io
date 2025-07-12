@@ -2,6 +2,10 @@
 layout: default
 title: Teaching
 ---
+## Textbook
+
+The current version of the Intro to syntax textbook I am writing can be downloaded [here](files/Introduction_to_syntax_textbook_complete.pdf). Criticism more than welcome!
+
 ## 2025 LSA Summer Institute
 
 Hosted by the Linguistics Department at the University of Oregon. I will be presenting at the workshop [Introduction to Generative Syntax](https://center.uoregon.edu/LSA/2025/program/search/detail_session.php?id=13901702) (July 7-- August 7, 2025).
