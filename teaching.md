@@ -4,7 +4,7 @@ title: Teaching
 ---
 ## Textbook
 
-The current version of the Intro to syntax textbook I am writing can be downloaded [here](files/Introduction_to_syntax_textbook_complete.pdf). Criticism more than welcome!
+The current version of an Intro to syntax textbook I am writing can be downloaded [here](files/Introduction_to_syntax_textbook.pdf). Criticism more than welcome!
 
 ## 2025 LSA Summer Institute
 
