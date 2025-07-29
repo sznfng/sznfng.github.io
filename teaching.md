@@ -14,7 +14,7 @@ Hosted by the Linguistics Department at the University of Oregon. I will be pres
 + Syntax (1103; Fall 2025, Winter 2025, Fall 2024)
 + Field Methods (4500/6500; Fall 2025; crosslisted)
 + Selected topics in syntactic theory (4110/6110; Winter 2025; crosslisted)
-  + Lecture materials: [HO1](https://sznfng.github.io/files/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%201.pdf)
+  + Lecture materials: [HO1](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%201.pdf)
 + Morphology (3000, Fall 2024)
 
 ## Previous teaching
