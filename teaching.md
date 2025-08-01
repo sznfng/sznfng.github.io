@@ -10,7 +10,9 @@ The current version of an Intro to syntax textbook I am writing can be downloade
 
 ## 2025 LSA Summer Institute
 
-Hosted by the Linguistics Department at the University of Oregon. I will be presenting at the workshop [Introduction to Generative Syntax](https://center.uoregon.edu/LSA/2025/program/search/detail_session.php?id=13901702).
+Hosted by the Linguistics Department at the University of Oregon. I taught [Introduction to Generative Syntax](https://center.uoregon.edu/LSA/2025/program/search/detail_session.php?id=13901702).
+
+Lecture materials: [HO1](files/intro_syntax/Intro_Generative_Syntax_LSA_2025_HO1.pdf)
 
 ## Memorial University of Newfounland
 + Syntax (1103; Fall 2025, Winter 2025, Fall 2024)
