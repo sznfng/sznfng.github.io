@@ -6,7 +6,7 @@ title: Teaching
 
 The current version of an Intro to syntax textbook I am writing can be downloaded [here](files/Introduction_to_syntax_textbook.pdf) (version of August, 2025). Criticism more than welcome!
 
-(_Upcoming chapters_: ditransitives, raising and control, A-movement, head movement._)
+(_Upcoming chapters_: ditransitives, raising and control, A-movement, head movement.)
 
 ## 2025 LSA Summer Institute
 
