@@ -8,12 +8,6 @@ The current version of an Intro to syntax textbook I am writing can be downloade
 
 (_Upcoming chapters_: ditransitives, raising and control, A-movement, head movement.)
 
-## 2025 LSA Summer Institute
-
-Hosted by the Linguistics Department at the University of Oregon. I taught [Introduction to Generative Syntax](https://center.uoregon.edu/LSA/2025/program/search/detail_session.php?id=13901702).
-
-Lecture materials: [HO1](files/intro_syntax/Intro_Generative_Syntax_LSA_2025_HO1.pdf) / [HO2](files/intro_syntax/Intro_Generative_Syntax_LSA_2025_HO2.pdf) / [HO3](files/intro_syntax/Intro_Generative_Syntax_LSA_2025_HO3.pdf )/ [HO4](files/intro_syntax/Intro_Generative_Syntax_LSA_2025_HO4.pdf) / [HO5](files/intro_syntax/Intro_Generative_Syntax_LSA_2025_HO5.pdf) / [HO6](files/intro_syntax/Intro_Generative_Syntax_LSA_2025_HO6.pdf)
-
 ## Memorial University of Newfounland
 + Syntax (1103; Fall 2025, Winter 2025, Fall 2024)
 + Field Methods (4500/6500; Fall 2025; crosslisted)
@@ -33,6 +27,12 @@ Lecture materials: [HO1](files/intro_syntax/Intro_Generative_Syntax_LSA_2025_HO1
 + Introduction to Semantics (LIN5217, Fall 2021), BA/MA course
 + Syntax II Explaining Grammatical Structures (LIN5213, Fall 2021), BA course
 + Syntax (MA, LIN7209, Fall 2021), MA course
+
+## 2025 LSA Summer Institute
+
+Hosted by the Linguistics Department at the University of Oregon on July--August/2025. I taught [Introduction to Generative Syntax](https://center.uoregon.edu/LSA/2025/program/search/detail_session.php?id=13901702).
+
+Lecture materials: [HO1](files/intro_syntax/Intro_Generative_Syntax_LSA_2025_HO1.pdf) / [HO2](files/intro_syntax/Intro_Generative_Syntax_LSA_2025_HO2.pdf) / [HO3](files/intro_syntax/Intro_Generative_Syntax_LSA_2025_HO3.pdf )/ [HO4](files/intro_syntax/Intro_Generative_Syntax_LSA_2025_HO4.pdf) / [HO5](files/intro_syntax/Intro_Generative_Syntax_LSA_2025_HO5.pdf) / [HO6](files/intro_syntax/Intro_Generative_Syntax_LSA_2025_HO6.pdf)
 
 ### ELBA (Escuela de Lingüística de Buenos Aires)
 [Linguistics Summer School at Buenos Aires](https://escuela-linguistica-de-buenos-aires.github.io/)\
