@@ -4,7 +4,7 @@ title: Teaching
 ---
 ## Textbook
 
-The current version of an Intro to syntax textbook I am writing can be downloaded [here](files/Introduction_to_syntax_textbook.pdf) (version of August, 2025). Criticism more than welcome!
+The current version of an Intro to syntax textbook I am writing can be downloaded [here](files/Introduction_to_syntax_textbook_September_2025.pdf) (version of September, 2025). Criticism more than welcome!
 
 (_Upcoming chapters_: ditransitives, raising and control, A-movement, head movement.)
 
