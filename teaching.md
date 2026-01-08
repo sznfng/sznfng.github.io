@@ -9,11 +9,12 @@ The current version of an Intro to syntax textbook I am writing can be downloade
 (_Upcoming chapters_: ditransitives, raising and control, A-movement, head movement.)
 
 ## Memorial University of Newfounland
-+ Syntax (1103; Fall 2025, Winter 2025, Fall 2024)
-+ Field Methods (4500/6500; Fall 2025; crosslisted)
-+ Selected topics in syntactic theory (4110/6110; Winter 2025; crosslisted)
++ Introduction to Syntax 1103 (Fall 2025, Winter 2025, Fall 2024)
++ Selected topics in syntactic theory 4110/6110(Winter 2025; crosslisted)
   + Lecture materials: [HO1](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%201.pdf) / [HO2a](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%202a.pdf) / [HO2b](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%202b.pdf) / [HO2c](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%202c.pdf) / [HO3a](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%203a.pdf) / [HO3b](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%203b.pdf)/ [HO3c](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%203c.pdf)
-+ Morphology (3000, Fall 2024)
++ Morphology 3000 (Winter 2026, Fall 2024)
++ Field Methods 4500/6500 (Fall 2025; crosslisted)
++ Introduction to Syntax 1100 (Winter 2026)
 
 ## Previous teaching
 
