@@ -20,23 +20,13 @@ The current version of an Intro to syntax textbook I am writing can be downloade
 
 ### Syntaxmaster
 
-# Overview
-
 "Taskmaster" is a British game show where contestants attempt to complete a series of challenges. If you have never watched the show, I recommend [this video](https://www.youtube.com/watch?v=AzzJytRJGRY) and [this other video](https://www.youtube.com/watch?v=emz6GVWvJlo&t=24s).
 
-"Syntaxmaster" is a linguistic version of one of the tasks from S12E4:
-
-https://www.youtube.com/watch?v=b_oXhJqhVB0
+"Syntaxmaster" is a linguistic version of one of the tasks from [S12E4](https://www.youtube.com/watch?v=b_oXhJqhVB0)
 
 Ultimately, the goal of the game is to decipher a message. But this is just a pretext to get students to retrieve important syntactic concepts. The deciphering is done by pairing linguistic concepts or definitions with data that illustrate them. Each concept is assigned to a symbol, while each data point is assigned a letter. By pairing each concept with the data that exemplifies it, the players arrive at a cipher that decodes the message.
 
 For example, let's say that the message to be decoded contains the symbol "♠." This symbol is associated with the following definition: "An anaphor must be c-commanded by its antecedent." In order to figure out which letter "♠" corresponds to, the players must inspect a set of sentences and converge on a pair of sentences like "Mary praised herself" vs. "*Mary's grandparents praised herself." Assuming further that these data are associated with the letter "S," players will, then, have uncovered part of the cipher, so that they are now able to translate the "♠" in the coded message into an "S."
-
-I am personally using this game in the first lecture of an intermediate course that has Introduction to Syntax as its pre-requisite. My plan is to jog the students' memories in an informal and, hopefully, fun way. But I can also imagine this game being used in lieu of a revision before an exam, or to fill a lecture when you are expecting low attendance (e.g. when we get a partial week off and more than a few students extend the break to the whole week).
-
-The game is highly adaptable. The instructor can create their own "[insert subfield]master." The questions/concepts and the data can be changed too, so the level of the difficulty can be easily modulated. The message and cipher, needless to say, can be changed as well.
-
-# Contents of the .zip folder
 
 (1) PDF files of an actual instantiation of the game, implemented as "Syntaxmaster:"
     a. Intructions.
@@ -45,15 +35,7 @@ The game is highly adaptable. The instructor can create their own "[insert subfi
     d. Cipher, where the symbol-letter pairings are conveniently collected, so that you can check them together.
     e. Message to be decoded, which you hand students after you checked that their cipher is correct.
     
-(2) .tex version of these files, but with minimal formatting, so that you can easily create your own version---.doc versions can, of course, be easily created, based on the PDFs just mentioned.
-
-# Signing off
-
-If you have any feedback, or spot any errors in the game, please do get in touch!
-
-Suzana
-sznfong@alum.mit.edu / sfong@mun.ca
-St. John's, 4-September-2026
+.tex version of these files, but with minimal formatting can be downloaded [here](https://www.overleaf.com/read/rhjtpdyqfcpr#3abd32).
 
 ## Previous teaching
 
