@@ -18,7 +18,7 @@ The current version of an Intro to syntax textbook I am writing can be downloade
 + Selected topics in syntactic theory 4110/6110 (Winter 2025; crosslisted)
   + Lecture materials: [HO1](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%201.pdf) / [HO2a](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%202a.pdf) / [HO2b](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%202b.pdf) / [HO2c](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%202c.pdf) / [HO3a](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%203a.pdf) / [HO3b](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%203b.pdf)/ [HO3c](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%203c.pdf)
 
-### Syntaxmaster
+## Syntaxmaster
 
 "Taskmaster" is a British game show where contestants attempt to complete a series of challenges. If you have never watched the show, I recommend [this video](https://www.youtube.com/watch?v=AzzJytRJGRY) and [this other video](https://www.youtube.com/watch?v=emz6GVWvJlo&t=24s).
 
@@ -34,6 +34,17 @@ For example, let's say that the message to be decoded contains the symbol "♠."
 
 ## Previous teaching
 
+### 2025 LSA Summer Institute
+
+Hosted by the Linguistics Department at the University of Oregon on July--August/2025. I taught [Introduction to Generative Syntax](https://center.uoregon.edu/LSA/2025/program/search/detail_session.php?id=13901702).
+
+Lecture materials: [HO1](files/intro_syntax/Intro_Generative_Syntax_LSA_2025_HO1.pdf) / [HO2](files/intro_syntax/Intro_Generative_Syntax_LSA_2025_HO2.pdf) / [HO3](files/intro_syntax/Intro_Generative_Syntax_LSA_2025_HO3.pdf)/ [HO4](files/intro_syntax/Intro_Generative_Syntax_LSA_2025_HO4.pdf) / [HO5](files/intro_syntax/Intro_Generative_Syntax_LSA_2025_HO5.pdf) / [HO6](files/intro_syntax/Intro_Generative_Syntax_LSA_2025_HO6.pdf)
+
+### ELBA (Escuela de Lingüística de Buenos Aires)
+[Linguistics Summer School at Buenos Aires](https://escuela-linguistica-de-buenos-aires.github.io/)\
+February/2020\
+Topic: Theoretical approaches to hyperraising
+
 ### Yale University
 + Syntax II (LING 254/654, Spring 2023), undergraduate/graduate course
 + Linguistics in the real world (LING 106, Spring 2023), undergraduate course
@@ -44,14 +55,3 @@ For example, let's say that the message to be decoded contains the symbol "♠."
 + Introduction to Semantics (LIN5217, Fall 2021), BA/MA course
 + Syntax II Explaining Grammatical Structures (LIN5213, Fall 2021), BA course
 + Syntax (MA, LIN7209, Fall 2021), MA course
-
-## 2025 LSA Summer Institute
-
-Hosted by the Linguistics Department at the University of Oregon on July--August/2025. I taught [Introduction to Generative Syntax](https://center.uoregon.edu/LSA/2025/program/search/detail_session.php?id=13901702).
-
-Lecture materials: [HO1](files/intro_syntax/Intro_Generative_Syntax_LSA_2025_HO1.pdf) / [HO2](files/intro_syntax/Intro_Generative_Syntax_LSA_2025_HO2.pdf) / [HO3](files/intro_syntax/Intro_Generative_Syntax_LSA_2025_HO3.pdf)/ [HO4](files/intro_syntax/Intro_Generative_Syntax_LSA_2025_HO4.pdf) / [HO5](files/intro_syntax/Intro_Generative_Syntax_LSA_2025_HO5.pdf) / [HO6](files/intro_syntax/Intro_Generative_Syntax_LSA_2025_HO6.pdf)
-
-### ELBA (Escuela de Lingüística de Buenos Aires)
-[Linguistics Summer School at Buenos Aires](https://escuela-linguistica-de-buenos-aires.github.io/)\
-February/2020\
-Topic: Theoretical approaches to hyperraising
