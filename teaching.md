@@ -32,7 +32,7 @@ For example, let's say that the message to be decoded contains the symbol "♠."
     
 *.tex* version of files above, but with minimal formatting can be downloaded [here](https://www.overleaf.com/read/rhjtpdyqfcpr#3abd32).
 
-![Syntaxmaster contents](files/syntaxmaster/IMG_20260915_071833833.jpg)
+<img src="files/syntaxmaster/IMG_20260915_071833833.jpg" width="300">
 
 ## Previous teaching
 
