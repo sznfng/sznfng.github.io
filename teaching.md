@@ -20,7 +20,7 @@ The current version of an Intro to syntax textbook I am writing can be downloade
 
 ## Syntaxmaster
 
-"Taskmaster" is a British game show where contestants attempt to complete a series of challenges. If you have never watched the show, I recommend [this video](https://www.youtube.com/watch?v=AzzJytRJGRY) and [this other video](https://www.youtube.com/watch?v=emz6GVWvJlo&t=24s). "Syntaxmaster" is a linguistic version of one of the tasks from [S12E4](https://www.youtube.com/watch?v=b_oXhJqhVB0)
+"Taskmaster" is a British game show where contestants attempt to complete a series of challenges. If you have never watched the show, I recommend [this video](https://www.youtube.com/watch?v=AzzJytRJGRY) and [this other video](https://www.youtube.com/watch?v=emz6GVWvJlo&t=24s). "Syntaxmaster" is a linguistic version of one of the tasks from [S12E4](https://www.youtube.com/watch?v=b_oXhJqhVB0).
 
 Ultimately, the goal of the game is to decipher a message. But this is just a pretext to get students to retrieve important syntactic concepts. The deciphering is done by pairing linguistic concepts or definitions with data that illustrate them. Each concept is assigned to a symbol, while each data point is assigned a letter. By pairing each concept with the data that exemplifies it, the players arrive at a cipher that decodes the message.
 
