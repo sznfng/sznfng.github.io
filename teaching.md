@@ -15,7 +15,7 @@ The current version of an Intro to syntax textbook I am writing can be downloade
 + Introduction to Linguistics 1100 (Winter 2026)
 + Field Methods 4500/6500 (Fall 2025; crosslisted)
 + Seminar in Research Methods 7000 (Fall 2026; graduate)
-+ Selected topics in syntactic theory 4110/6110(Winter 2025; crosslisted)
++ Selected topics in syntactic theory 4110/6110 (Winter 2025; crosslisted)
   + Lecture materials: [HO1](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%201.pdf) / [HO2a](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%202a.pdf) / [HO2b](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%202b.pdf) / [HO2c](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%202c.pdf) / [HO3a](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%203a.pdf) / [HO3b](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%203b.pdf)/ [HO3c](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%203c.pdf)
 
 ### Syntaxmaster
@@ -30,7 +30,9 @@ For example, let's say that the message to be decoded contains the symbol "♠."
 
 [Instructions](files/syntaxmaster/3100_Syntactic_Theory_F26_syntaxmaster_instructions.pdf) / [Board](files/syntaxmaster/3100_Syntactic_Theory_F26_syntaxmaster_board.pdf) / [Cards](files/syntaxmaster/3100_Syntactic_Theory_F26_cards.pdf) / [Cipher](files/syntaxmaster/3100_Syntactic_Theory_F26_syntaxmaster_cipher.pdf) / [Message](files/syntaxmaster/3100_Syntactic_Theory_F26_syntaxmaster_message.pdf)
     
-.tex version of files above, but with minimal formatting can be downloaded [here](https://www.overleaf.com/read/rhjtpdyqfcpr#3abd32).
+*.tex* version of files above, but with minimal formatting can be downloaded [here](https://www.overleaf.com/read/rhjtpdyqfcpr#3abd32).
+
+![Syntaxmaster contents](files/syntaxmaster/IMG_20260915_071833833.jpg)
 
 ## Previous teaching
 
