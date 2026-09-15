@@ -8,5 +8,6 @@ I have been fortunate to work with students at both the undergraduate and gradua
 + Algonguian direct vs. inverse marking in monoclausal sentences, and also across a finite clause (a.k.a. "Long Distance Agreement")
 + Other types of cross-clausal dependencies
 + Agreement vs. resumption
++ Case and Differential Object Marking
 
-Some of the languages or language families I have advised on include: Akan, Algonquian, ASL (American Sign Language), English.
+Some of the languages or language families I have advised on include: Akan, Algonquian, Arabic, ASL (American Sign Language), English, Tamil.
