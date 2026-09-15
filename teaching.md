@@ -28,11 +28,9 @@ Ultimately, the goal of the game is to decipher a message. But this is just a pr
 
 For example, let's say that the message to be decoded contains the symbol "♠." This symbol is associated with the following definition: "An anaphor must be c-commanded by its antecedent." In order to figure out which letter "♠" corresponds to, the players must inspect a set of sentences and converge on a pair of sentences like "Mary praised herself" vs. "*Mary's grandparents praised herself." Assuming further that these data are associated with the letter "S," players will, then, have uncovered part of the cipher, so that they are now able to translate the "♠" in the coded message into an "S."
 
-[Instructions](files/syntaxmaster/3100_Syntactic_Theory_F26_syntaxmaster_instructions.pdf) / [Board](files/syntaxmaster/3100_Syntactic_Theory_F26_syntaxmaster_board.pdf) / [Cards](files/syntaxmaster/3100_Syntactic_Theory_F26_cards.pdf) / [Cipher](files/syntaxmaster/3100_Syntactic_Theory_F26_syntaxmaster_cipher.pdf) / [Message](files/syntaxmaster/3100_Syntactic_Theory_F26_syntaxmaster_message.pdf)
-    
-*.tex* version of files above, but with minimal formatting can be downloaded [here](https://www.overleaf.com/read/rhjtpdyqfcpr#3abd32).
+[Instructions](files/syntaxmaster/3100_Syntactic_Theory_F26_syntaxmaster_instructions.pdf) / [Board](files/syntaxmaster/3100_Syntactic_Theory_F26_syntaxmaster_board.pdf) / [Cards](files/syntaxmaster/3100_Syntactic_Theory_F26_cards.pdf) / [Cipher](files/syntaxmaster/3100_Syntactic_Theory_F26_syntaxmaster_cipher.pdf) / [Message](files/syntaxmaster/3100_Syntactic_Theory_F26_syntaxmaster_message.pdf) / *.tex* versions of these files, but with minimal formatting, can be downloaded [here](https://www.overleaf.com/read/rhjtpdyqfcpr#3abd32).
 
-<img src="files/syntaxmaster/IMG_20260915_071833833.jpg" width="300">
+<img src="files/syntaxmaster/IMG_20260915_071833833.jpg" width="300"> <img src="files/syntaxmaster/IMG_20260915_071911699.jpg" width="300">
 
 ## Previous teaching
 
