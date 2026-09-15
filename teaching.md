@@ -28,14 +28,9 @@ Ultimately, the goal of the game is to decipher a message. But this is just a pr
 
 For example, let's say that the message to be decoded contains the symbol "♠." This symbol is associated with the following definition: "An anaphor must be c-commanded by its antecedent." In order to figure out which letter "♠" corresponds to, the players must inspect a set of sentences and converge on a pair of sentences like "Mary praised herself" vs. "*Mary's grandparents praised herself." Assuming further that these data are associated with the letter "S," players will, then, have uncovered part of the cipher, so that they are now able to translate the "♠" in the coded message into an "S."
 
-(1) PDF files of an actual instantiation of the game, implemented as "Syntaxmaster:"
-    a. Intructions.
-    b. Board with concepts and respective symbol, with placeholders for the letter that each concept is illustrated by.
-    c. Deck of cards, each containing a data point that is uniquely associated with a concept. Each data point/card has its own letter.
-    d. Cipher, where the symbol-letter pairings are conveniently collected, so that you can check them together.
-    e. Message to be decoded, which you hand students after you checked that their cipher is correct.
+[Instructions](files/syntaxmaster/3100_Syntactic_Theory_F26_syntaxmaster_instructions.pdf) / [Board](files/syntaxmaster/3100_Syntactic_Theory_F26_syntaxmaster_board.pdf) / [Cards](files/syntaxmaster/3100_Syntactic_Theory_F26_cards.pdf) / [Cipher](files/syntaxmaster/3100_Syntactic_Theory_F26_syntaxmaster_cipher.pdf) / [Message](files/syntaxmaster/3100_Syntactic_Theory_F26_syntaxmaster_message.pdf)
     
-.tex version of these files, but with minimal formatting can be downloaded [here](https://www.overleaf.com/read/rhjtpdyqfcpr#3abd32).
+.tex version of files above, but with minimal formatting can be downloaded [here](https://www.overleaf.com/read/rhjtpdyqfcpr#3abd32).
 
 ## Previous teaching
 
