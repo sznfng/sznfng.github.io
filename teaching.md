@@ -2,12 +2,6 @@
 layout: default
 title: Teaching
 ---
-## Textbook
-
-The current version of an Intro to syntax textbook I am writing can be downloaded [here](files/Introduction_to_syntax_textbook_September_2025.pdf) (version of September, 2025). Criticism more than welcome!
-
-(_Upcoming chapters_: ditransitives, raising and control, A-movement, head movement.)
-
 ## Memorial University of Newfounland
 + Introduction to Syntax 1103 (Fall 2026, Fall 2025, Winter 2025, Fall 2024)
 + Syntactic Theory 3100 (Fall 2026)
@@ -18,7 +12,9 @@ The current version of an Intro to syntax textbook I am writing can be downloade
 + Selected topics in syntactic theory 4110/6110 (Winter 2025; crosslisted)
   + Lecture materials: [HO1](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%201.pdf) / [HO2a](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%202a.pdf) / [HO2b](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%202b.pdf) / [HO2c](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%202c.pdf) / [HO3a](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%203a.pdf) / [HO3b](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%203b.pdf)/ [HO3c](https://sznfng.github.io/files/agree_course/Selected_topics_in_syntactic_theory_4110_6110_Winter_2025_handout%203c.pdf)
 
-## Syntaxmaster
+## Teaching materials
+
+### Syntaxmaster
 
 "Taskmaster" is a British game show where contestants attempt to complete a series of challenges. If you have never watched the show, I recommend [this video](https://www.youtube.com/watch?v=AzzJytRJGRY) and [this other video](https://www.youtube.com/watch?v=emz6GVWvJlo&t=24s). "Syntaxmaster" is a linguistic version of one of the tasks from [S12E4](https://www.youtube.com/watch?v=b_oXhJqhVB0).
 
@@ -29,6 +25,12 @@ For example, let's say that the message to be decoded contains the symbol "♠."
 [Instructions](files/syntaxmaster/3100_Syntactic_Theory_F26_syntaxmaster_instructions.pdf) / [Board](files/syntaxmaster/3100_Syntactic_Theory_F26_syntaxmaster_board.pdf) / [Cards](files/syntaxmaster/3100_Syntactic_Theory_F26_cards.pdf) / [Cipher](files/syntaxmaster/3100_Syntactic_Theory_F26_syntaxmaster_cipher.pdf) / [Message](files/syntaxmaster/3100_Syntactic_Theory_F26_syntaxmaster_message.pdf) / *.tex* versions of these files, but with minimal formatting, can be downloaded [here](https://www.overleaf.com/read/rhjtpdyqfcpr#3abd32).
 
 <img src="files/syntaxmaster/IMG_20260915_071833833.jpg" width="300"> <img src="files/syntaxmaster/IMG_20260915_071911699.jpg" width="300">
+
+### Textbook
+
+The current version of an Intro to syntax textbook I am writing can be downloaded [here](files/Introduction_to_syntax_textbook_September_2025.pdf) (version of September, 2025). Criticism more than welcome!
+
+(_Upcoming chapters_: ditransitives, raising and control, A-movement, head movement.)
 
 ## Previous teaching
 
