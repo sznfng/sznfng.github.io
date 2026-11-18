@@ -50,5 +50,6 @@ My M.A. thesis is a study of different types of gerund clauses in Brazilian Port
 ([Universidade de São Paulo M.A. thesis](https://ling.auf.net/lingbuzz/002715))
 
 <img src="files/IMG_20261108_190746528.jpg" height="150"> <img src="files/IMG_20261116_175226342.jpg" height="150"> <img src="files/IMG_20261108_192724447.jpg" height="150">
+
 &nbsp;
 <small>My coworker Siufa 小花 ensuring that I take regular breaks.</small>
